@@ -112,8 +112,4 @@ Set up the database and import the dataset.
 
 Run SQL scripts for data cleaning and analysis.
 
-Author
-
-Utsab Sarkar
-
 
