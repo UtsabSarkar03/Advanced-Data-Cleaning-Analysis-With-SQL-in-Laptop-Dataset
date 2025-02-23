@@ -1,4 +1,4 @@
-# Advanced-Data-Cleaning-Analysis-With-SQL-in-Laptop-Dataset
+# Advanced-Data-Cleaning-and-Analysis-With-SQL-in-Laptop-Dataset
 
 Overview
 
